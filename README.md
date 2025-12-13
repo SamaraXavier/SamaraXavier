@@ -1,8 +1,6 @@
 # 💫 About Me
 
-I'm a **Bachelor’s student in Computer Science** at the **Federal Rural University of Pernambuco (UFRPE)**, with strong academic and practical experience in technology-driven projects.
-
-My main interests include **software development**, **data science**, **artificial intelligence**, and the use of technology as a tool for **social transformation and equity**. I value continuous learning through research and collaborative projects.
+I'm a **Bachelor’s student in Computer Science** at the **Federal Rural University of Pernambuco (UFRPE)**. My main interests include **software development**, **data science**, **artificial intelligence**, and the use of technology as a tool for **social transformation and equity**. I value continuous learning through research and collaborative projects.
 
 ---
 
