@@ -72,12 +72,6 @@ My main interests are **software development**, **data science**, **artificial i
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaraXavier&layout=compact&theme=buefy"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SamaraXavier&icon=0&color=0"/>
-</p>
-
 <p align="center">
   <!-- Crafted with curiosity, code and purpose ✨ -->
 </p>
