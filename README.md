@@ -21,14 +21,14 @@
 
 ### 🇧🇷 Português
 
-Sou **estudante de Bacharelado em Ciência da Computação** pela **Universidade Federal Rural de Pernambuco (UFRPE)**.
+Sou **estudante de Bacharelado em Ciência da Computação**.
 Meus principais interesses incluem **desenvolvimento de software**, **ciência de dados**, **inteligência artificial** e **tecnologias voltadas à equidade social**.
 
 ---
 
 ### 🇺🇸 English
 
-I am a **Bachelor’s student in Computer Science** at the **Federal Rural University of Pernambuco (UFRPE)**.
+I am a **Bachelor’s student in Computer Science**.
 My main interests are **software development**, **data science**, **artificial intelligence**, and **technology for social equity**.
 
 ---
